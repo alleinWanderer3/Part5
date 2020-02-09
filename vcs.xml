@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/PRIESt512/clientserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PRIESt512/pattern" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\aleks\IdeaProjects" />
